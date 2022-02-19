@@ -1,0 +1,27 @@
+.form{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.genders{
+  display: flex;
+  margin-bottom: 10px;
+}
+.genders .gen{
+  margin-right: 12px;
+}
+.country-list{
+  display: flex;
+  align-items: center;
+}
+.country-list p{
+  width: 167px;
+}
+.dob-date{
+  display: flex;
+  align-items: center;
+}
+.nameinput{
+  width: 70%;
+  margin: auto;
+}
